@@ -29,7 +29,7 @@
 
 **I devised an AI Keyboard**:
 
-<img src="images/ai-keyboard/ai-keyboard-en.png" alt="Keyboard Layout" style="max-width:800px; width:100%; margin-bottom: 10px;">
+<img src="images/ai-keyboard/ai-keyboard-en.png" alt="Keyboard Layout">
 
 I wrote 136 prompts for the 26 letter keys on a keyboard, which are commonly used in work and daily life.
 
@@ -69,7 +69,7 @@ Here is an outline for this AI Keyboard User Guide. After reviewing it, you can 
 
 ### 1.1 Five Functional Zones of AI Keyboard
 
-<img src="images/ai-keyboard/functional-zoning-table-en.png" alt="The Functional Zoning Table of AI Keyboard" title="The Functional Zoning Table of AI Keyboard" style="max-width:750px; width:100%; margin-bottom: 10px;">
+<img src="images/ai-keyboard/functional-zoning-table-en.png" alt="The Functional Zoning Table of AI Keyboard" title="The Functional Zoning Table of AI Keyboard" width="750">
 
 For better usability and recall, **I divided a keyboard into five functional zones**, and then wrote prompts with similar usage scenarios for the keys in each zone.
 
@@ -86,7 +86,7 @@ For all 136 prompts and corresponding shortcuts, please refer to Chapter 2.
 Here is the logo for AI Keyboard, a small red octopus: 
 
 <p align="center">
-<img src="images/ai-keyboard/logo.png" alt="Logo" style="max-width:200px; width:100%;">
+<img src="images/ai-keyboard/logo.png" alt="Logo" width="200">
 </p>
 
 So you can also call it "**OctoBoard**".
@@ -94,7 +94,7 @@ So you can also call it "**OctoBoard**".
 Its key visual features an octopus casting magic on a keyboard, symbolizing "**prompts at your fingertips.**"
 
 <p align="center">
-<img src="images/ai-keyboard/octoboard-01.png" alt="The Key Visual of AI Keyboard" style="max-width:290px; width:100%;">
+<img src="images/ai-keyboard/octoboard-01.png" alt="The Key Visual of AI Keyboard" width="290">
 </p>
 
 <p align="right">
@@ -478,8 +478,9 @@ The shortcuts and corresponding prompts are as follows:
 **</ai_keyboard>**
 
 <p align="center">
-<img src="images/ai-keyboard/octoboard-02.png" alt="The Key Visual of AI Keyboard" style="max-width:290px; width:100%;">
+<img src="images/ai-keyboard/octoboard-02.png" alt="The Key Visual of AI Keyboard" width="290">
 </p>
+
 
 <p align="right">
   <a href="#toc">
@@ -525,7 +526,7 @@ The shortcuts and corresponding prompts are as follows:
 
 First, let's review the keyboard layout:
 
-<img src="images/ai-keyboard/ai-keyboard-en.png" alt="Keyboard Layout" style="max-width:800px; width:100%; margin-bottom: 10px;">
+<img src="images/ai-keyboard/ai-keyboard-en.png" alt="Keyboard Layout">
 
 The description under the letter indicates the basic function: type one letter to use it, and type two letters to access **an extended or enhanced function**.
 
@@ -551,7 +552,7 @@ Typing <kbd>ff</kbd> compares the nuances between words, while typing <kbd>fs</k
 
 **The result is shown below:**
 
-<img src="images/screenshots/deepseek-test-fs-en.png" alt="The Result of Using the FS Shortcut" style="max-width:750px; width:100%; margin-bottom: 10px;">
+<img src="images/screenshots/deepseek-test-fs-en.png" alt="The Result of Using the FS Shortcut" width="750">
 
 </details>
 
@@ -671,7 +672,7 @@ Check out the <kbd>i</kbd> key in the Health Zone for a similar case:
 
 ### 3.3 How to Use the Office Zone Keys
 
-<img src="images/ai-keyboard/office-zone-en.png" alt="The Functional Zoning Table of AI Keyboard" style="max-width:750px; width:100%; margin-bottom: 10px;">
+<img src="images/ai-keyboard/office-zone-en.png" alt="The Functional Zoning Table of AI Keyboard" width="750">
 
 The basic functions of the keys in the Office Zone are to write(x), translate(t), polish(a), sum up(s), define(d), look up(f), instruct(y), break down(c) and analyze(v).
 
@@ -827,7 +828,7 @@ v7: Analyze the following using the seven-step problem-solving method: [].
 
 ### 3.4 How to Use the Q&A Assistant Zone Keys
 
-<img src="images/ai-keyboard/q&a-assistant-zone-en.png" alt="The Functional Zoning Table of AI Keyboard" style="max-width:750px; width:100%; margin-bottom: 10px;">
+<img src="images/ai-keyboard/q&a-assistant-zone-en.png" alt="The Functional Zoning Table of AI Keyboard" width="750">
 
 When interacting with AI, you may want to understand the meaning of a concept mentioned in the response.
 
@@ -887,13 +888,13 @@ Sending a single <kbd>z</kbd> prompts AI to rewrite the generated response to be
 
 ***The prompt preset for ll is** "I want to improve my [] skills. What should I do?"*
 
-<img src="images/screenshots/deepseek-test-ll-en.png" alt="The Result of Using the LL Shortcut" style="max-width:750px; width:100%; margin-bottom: 10px;">
+<img src="images/screenshots/deepseek-test-ll-en.png" alt="The Result of Using the LL Shortcut" width="750">
 
 **Send**: z
 
 **AI's Response**: A shorter response with easier-to-understand steps.
 
-<img src="images/screenshots/deepseek-test-z-en.png" alt="The Result of Using the Z Shortcut" style="max-width:750px; width:100%; margin-bottom: 10px;">
+<img src="images/screenshots/deepseek-test-z-en.png" alt="The Result of Using the Z Shortcut" width="750">
 
 </details>
 
@@ -989,7 +990,7 @@ p: Additional information or requirements are as follows: [].
 
 **The result is shown below:**
 
-<img src="images/screenshots/deepseek-test-tt-en.png" alt="The Result of Using the TT and P Shortcut" style="max-width:750px; width:100%; margin-bottom: 10px;">
+<img src="images/screenshots/deepseek-test-tt-en.png" alt="The Result of Using the TT and P Shortcut" width="750">
 
 </details>
   
@@ -1023,7 +1024,7 @@ When using this type of prompt, simply enter a <kbd>/</kbd> as a separator.
 
 <summary><b>Click to hide or show the screenshot of the result</b></summary>
 
-<img src="images/screenshots/deepseek-test-gg-en.png" alt="The Result of Using the GG Shortcut" style="max-width:750px; width:100%; margin: 10px 0;">
+<img src="images/screenshots/deepseek-test-gg-en.png" alt="The Result of Using the GG Shortcut" width="750">
 
 </details>
 
@@ -1117,13 +1118,13 @@ To keep this guide from getting too long, I will only cover how to add AI Keyboa
 
 Copy the prompts from Chapter 2 into the input box, and then send them to DeepSeek.
 
-<img src="images/screenshots/deepseek-guide-01-en.png" alt="How to Add AI Keyboard to DeepSeek" style="max-width:650px; width:100%; margin-bottom: 15px;">
+<img src="images/screenshots/deepseek-guide-01-en.png" alt="How to Add AI Keyboard to DeepSeek" width="650">
 
 **Method 2**
 
 Copy the prompts from Chapter 2 into a document, and then upload the document.
 
-<img src="images/screenshots/deepseek-guide-02-en.png" alt="How to Add AI Keyboard to DeepSeek" style="max-width:650px; width:100%; margin-bottom: 15px;">
+<img src="images/screenshots/deepseek-guide-02-en.png" alt="How to Add AI Keyboard to DeepSeek" width="650">
 
 > **Tips**: Consider pinning the conversation containing these prompts for quick access and reuse.
 
@@ -1133,15 +1134,15 @@ Copy the prompts from Chapter 2 into a document, and then upload the document.
 
 **First**, click "Gems" in Settings:
 
-<img src="images/screenshots/gemini-guide-01.png" alt="How to Add AI Keyboard to Gemini" style="max-width:300px; width:100%; margin-bottom: 15px;">
+<img src="images/screenshots/gemini-guide-01.png" alt="How to Add AI Keyboard to Gemini" width="300">
 
 **Then** create a new Gem:
 
-<img src="images/screenshots/gemini-guide-02.png" alt="How to Add AI Keyboard to Gemini" style="max-width:300px; width:100%; margin-bottom: 15px;">
+<img src="images/screenshots/gemini-guide-02.png" alt="How to Add AI Keyboard to Gemini" width="300">
 
 **Finally** copy the prompts from Chapter 2 into the "Instructions" field and save it:
 
-<img src="images/screenshots/gemini-guide-03.png" alt="How to Add AI Keyboard to Gemini" style="max-width:700px; width:100%; margin-bottom: 15px;">
+<img src="images/screenshots/gemini-guide-03.png" alt="How to Add AI Keyboard to Gemini" width="700">
 
 <p align="right">
   <a href="#chapter-3-user-guide">

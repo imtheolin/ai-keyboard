@@ -29,7 +29,7 @@
 
 **我发明了一个AI键盘：**
 
-<img src="images/ai-keyboard/ai-keyboard-zh.png" alt="AI键盘的键位图" style="max-width:800px; width:100%; margin-bottom: 10px;">
+<img src="images/ai-keyboard/ai-keyboard-zh.png" alt="AI键盘的键位图">
 
 我给键盘上的26个字母编写了136个办公和生活常用的提示词。
 
@@ -45,9 +45,9 @@
 
 <details open>
 
-<br>
-
 <summary>章节概要</summary>
+
+<br>
 
 [**第1章**：AI键盘的5个功能区和视觉形象。](#第1章-ai键盘的简介)
 
@@ -69,7 +69,7 @@
 
 ### 1.1 AI键盘的5个功能区
 
-<img src="images/ai-keyboard/functional-zoning-table-zh.png" alt="AI键盘的功能分区表" title="AI键盘的功能分区表" style="max-width:800px; width:100%; margin-bottom: 10px;">
+<img src="images/ai-keyboard/functional-zoning-table-zh.png" alt="AI键盘的功能分区表" title="AI键盘的功能分区表" width="800">
 
 为了便于使用和记忆，**我把键盘分成了5个功能区**，又给每个功能区的按键编写了使用场景类似的提示词。
 
@@ -82,14 +82,14 @@
 AI键盘的logo是一只红色的小章鱼：
 
 <p align="center">
-<img src="images/ai-keyboard/logo.png" alt="AI键盘的logo" style="max-width:200px; width:100%;">
+<img src="images/ai-keyboard/logo.png" alt="AI键盘的logo" width="200">
 </p>
 
 因为章鱼的英文是octopus，键盘的英文是keyboard，所以你还可以叫它“**Octoboard**”。
 
 它的主视觉是一只正在给键盘施加魔法的章鱼，寓意是“**让提示词触手可及**”。
 <p align="center">
-<img src="images/ai-keyboard/octoboard-01.png" alt="AI键盘的主视觉" style="max-width:290px; width:100%;">
+<img src="images/ai-keyboard/octoboard-01.png" alt="AI键盘的主视觉" width="290">
 </p>
 
 <p align="right">
@@ -472,7 +472,7 @@ AI键盘主要由136个提示词组成。
 **</ai_keyboard>**
 
 <p align="center">
-<img src="images/ai-keyboard/octoboard-02.png" alt="AI键盘的主视觉" style="max-width:290px; width:100%;">
+<img src="images/ai-keyboard/octoboard-02.png" alt="AI键盘的主视觉" width="290">
 </p>
 
 <p align="right">
@@ -518,7 +518,7 @@ AI键盘主要由136个提示词组成。
 
 首先让我们回顾一下AI键盘的键位图：
 
-<img src="images/ai-keyboard/ai-keyboard-zh.png" alt="AI键盘的键位图" style="max-width:800px; width:100%; margin-bottom: 10px;">
+<img src="images/ai-keyboard/ai-keyboard-zh.png" alt="AI键盘的键位图">
 
 字母下方的简介是基础功能，输入一个字母就能使用，输入两个字母可以使用**基于基础功能衍生或加强的功能**。
 
@@ -544,7 +544,7 @@ AI键盘主要由136个提示词组成。
 
 **使用效果如下**：
 
-<img src="images/screenshots/deepseek-test-fj-zh.png" alt="快捷键f的使用效果" style="max-width:700px; width:100%; margin-bottom: 10px;">
+<img src="images/screenshots/deepseek-test-fj-zh.png" alt="快捷键f的使用效果" width="700">
 
 </details>
 
@@ -666,7 +666,7 @@ ip：我[]，请提供应急处理方法并附带注意事项。
 
 ### 3.3 办公区按键的用法
 
-<img src="images/ai-keyboard/office-zone-zh.png" alt="AI键盘的功能分区表" style="max-width:700px; width:100%; margin-bottom: 10px;">
+<img src="images/ai-keyboard/office-zone-zh.png" alt="AI键盘的功能分区表" width="700">
 
 办公区按键的基础功能有x写作、t翻译、a润色、s总结、d释义、f查词、y引导教学、c任务拆解和v问题分析。
 
@@ -822,7 +822,7 @@ v7：用七步问题解决法分析：[]。
 
 ### 3.4 辅助问答区按键的用法
 
-<img src="images/ai-keyboard/q&a-assistant-zone-zh.png" alt="AI键盘的功能分区表" style="max-width:700px; width:100%; margin-bottom: 10px;">
+<img src="images/ai-keyboard/q&a-assistant-zone-zh.png" alt="AI键盘的功能分区表" width="700">
 
 在和AI交流的过程中，你可能会想要了解回答里某个概念的含义，也可能会遇到回答太长的情况，想让AI改短一点。
 
@@ -880,7 +880,7 @@ v7：用七步问题解决法分析：[]。
 
 ***快捷键 ll对应的提示词是**：我想提高自己的[]能力，我应该怎么做？*
 
-<img src="images/screenshots/deepseek-test-ll-zh.png" alt="快捷键ll的使用效果" style="max-width:700px; width:100%; margin-bottom: 10px;">
+<img src="images/screenshots/deepseek-test-ll-zh.png" alt="快捷键ll的使用效果" width="700">
 
 **发送**：z
 
@@ -888,7 +888,7 @@ v7：用七步问题解决法分析：[]。
 
 **使用效果如下**：
 
-<img src="images/screenshots/deepseek-test-z-zh.png" alt="快捷键z的使用效果" style="max-width:700px; width:100%; margin-bottom: 10px;">
+<img src="images/screenshots/deepseek-test-z-zh.png" alt="快捷键z的使用效果" width="700">
 
 </details>
 
@@ -984,7 +984,7 @@ p：补充信息或要求如下：[]。
 
 **使用效果如下**：
 
-<img src="images/screenshots/deepseek-test-tt-zh.png" alt="快捷键tt和快捷键p的使用效果" style="max-width:700px; width:100%; margin-bottom: 10px;">
+<img src="images/screenshots/deepseek-test-tt-zh.png" alt="快捷键tt和快捷键p的使用效果" width="700">
 
 </details>
   
@@ -1018,7 +1018,7 @@ gg：我在[]的过程中[]，请给我一些指导。
 
 <summary><b>点击隐藏或显示使用效果的截图</b></summary>
 
-<img src="images/screenshots/deepseek-test-gg-zh.png" alt="快捷键gg的使用效果" style="max-width:700px; width:100%; margin: 10px 0;">
+<img src="images/screenshots/deepseek-test-gg-zh.png" alt="快捷键gg的使用效果" width="700">
 
 </details>
 
@@ -1114,13 +1114,13 @@ x3：给我一些[]年的新年祝福语。
 
 把第2章里的提示词复制到输入框中，然后发送即可。
 
-<img src="images/screenshots/deepseek-guide-01-zh.png" alt="添加到DeepSeek里的方法" style="max-width:650px; width:100%; margin: 10px 0;">
+<img src="images/screenshots/deepseek-guide-01-zh.png" alt="添加到DeepSeek里的方法" width="650">
 
 **方法2**
 
 把第2章里的提示词复制到一个文档里，然后上传该文档即可。
 
-<img src="images/screenshots/deepseek-guide-02-zh.png" alt="添加到DeepSeek里的方法" style="max-width:650px; width:100%; margin: 10px 0;">
+<img src="images/screenshots/deepseek-guide-02-zh.png" alt="添加到DeepSeek里的方法" width="650">
 
 > Tips：建议将发送过AI键盘提示词的对话置顶，方便后续查找和使用。
 
@@ -1130,23 +1130,23 @@ x3：给我一些[]年的新年祝福语。
 
 **首先**点击侧边栏“分组”右侧的+号：
 
-<img src="images/screenshots/yuanbao-guide-01.png" alt="添加到元宝里的方法" style="max-width:450px; width:100%; margin-bottom: 15px;">
+<img src="images/screenshots/yuanbao-guide-01.png" alt="添加到元宝里的方法" width="450">
 
 **然后**创建一个新的分组：
 
-<img src="images/screenshots/yuanbao-guide-02.png" style="max-width:450px; width:100%; margin-bottom: 15px;">
+<img src="images/screenshots/yuanbao-guide-02.png" width="450">
 
 **之后**点击“指令”：
 
-<img src="images/screenshots/yuanbao-guide-03.png" alt="添加到元宝里的方法" style="max-width:450px; width:100%; margin-bottom: 15px;">
+<img src="images/screenshots/yuanbao-guide-03.png" alt="添加到元宝里的方法" width="450">
 
 **最后**将第2章里的提示词复制到输入框中并使用：
 
-<img src="images/screenshots/yuanbao-guide-04.png" alt="添加到元宝里的方法" style="max-width:450px; width:100%; margin-bottom: 15px;">
+<img src="images/screenshots/yuanbao-guide-04.png" alt="添加到元宝里的方法" width="450">
 
 这样就能在这个分组里用AI键盘提问了：
 
-<img src="images/screenshots/yuanbao-guide-05.png" alt="添加到元宝里的方法" style="max-width:450px; width:100%; margin-bottom: 15px;">
+<img src="images/screenshots/yuanbao-guide-05.png" alt="添加到元宝里的方法" width="450">
 
 <p align="right">
   <a href="#第3章-使用指南">

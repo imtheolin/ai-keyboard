@@ -378,7 +378,7 @@ mz: Write a social guide for [], including but not limited to clothing suggestio
 
 <div align="center">
   
-<img src="../../images/ai-keyboard/octoboard-02.png" style="max-width:300px; width:100%;">
+<img src="../../images/ai-keyboard/octoboard-02.png" width="300">
 
 </div>
 
