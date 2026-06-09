@@ -69,9 +69,9 @@
 
 ### 1.1 AI键盘的5个功能区
 
-<div> 
+<p> 
  <img src="images/ai-keyboard/functional-zoning-table-zh.png" alt="AI键盘的功能分区表" title="AI键盘的功能分区表" width="800">
-</div> 
+</p> 
 
 为了便于使用和记忆，**我把键盘分成了5个功能区**，又给每个功能区的按键编写了使用场景类似的提示词。
 
@@ -477,7 +477,6 @@ AI键盘主要由136个提示词组成。
 <p align="center">
 <img src="images/ai-keyboard/octoboard-02.png" alt="AI键盘的主视觉" width="290">
 </p>
-
 <p align="right">
   <a href="#toc">
     <img src="https://img.shields.io/badge/-▲ 返回目录-dfe4ea?style=flat-square">
@@ -521,9 +520,9 @@ AI键盘主要由136个提示词组成。
 
 首先让我们回顾一下AI键盘的键位图：
 
-<div> 
+<p> 
  <img src="images/ai-keyboard/ai-keyboard-zh.png" alt="AI键盘的键位图">
-</div> 
+</p> 
 
 字母下方的简介是基础功能，输入一个字母就能使用，输入两个字母可以使用**基于基础功能衍生或加强的功能**。
 
