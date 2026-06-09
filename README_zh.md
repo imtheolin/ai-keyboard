@@ -69,9 +69,9 @@
 
 ### 1.1 AI键盘的5个功能区
 
-<p> 
+<p>
  <img src="images/ai-keyboard/functional-zoning-table-zh.png" alt="AI键盘的功能分区表" title="AI键盘的功能分区表" width="800">
-</p> 
+</p>
 
 为了便于使用和记忆，**我把键盘分成了5个功能区**，又给每个功能区的按键编写了使用场景类似的提示词。
 
@@ -84,7 +84,7 @@
 AI键盘的logo是一只红色的小章鱼：
 
 <div align="center">
-<img src="images/ai-keyboard/logo.png" alt="AI键盘的logo" width="200">
+ <img src="images/ai-keyboard/logo.png" alt="AI键盘的logo" width="200">
 </div>
 
 因为章鱼的英文是octopus，键盘的英文是keyboard，所以你还可以叫它“**Octoboard**”。
@@ -92,7 +92,7 @@ AI键盘的logo是一只红色的小章鱼：
 它的主视觉是一只正在给键盘施加魔法的章鱼，寓意是“**让提示词触手可及**”。
 
 <div align="center">
-<img src="images/ai-keyboard/octoboard-01.png" alt="AI键盘的主视觉" width="290">
+ <img src="images/ai-keyboard/octoboard-01.png" alt="AI键盘的主视觉" width="290">
 </div>
 
 <p align="right">
@@ -474,9 +474,10 @@ AI键盘主要由136个提示词组成。
 
 **</ai_keyboard>**
 
-<p align="center">
-<img src="images/ai-keyboard/octoboard-02.png" alt="AI键盘的主视觉" width="290">
-</p>
+<div align="center">
+ <img src="images/ai-keyboard/octoboard-02.png" alt="AI键盘的主视觉" width="290">
+</div>
+
 <p align="right">
   <a href="#toc">
     <img src="https://img.shields.io/badge/-▲ 返回目录-dfe4ea?style=flat-square">
@@ -520,9 +521,9 @@ AI键盘主要由136个提示词组成。
 
 首先让我们回顾一下AI键盘的键位图：
 
-<p> 
+<p>
  <img src="images/ai-keyboard/ai-keyboard-zh.png" alt="AI键盘的键位图">
-</p> 
+</p>
 
 字母下方的简介是基础功能，输入一个字母就能使用，输入两个字母可以使用**基于基础功能衍生或加强的功能**。
 
@@ -670,7 +671,9 @@ ip：我[]，请提供应急处理方法并附带注意事项。
 
 ### 3.3 办公区按键的用法
 
-<img src="images/ai-keyboard/office-zone-zh.png" alt="AI键盘的功能分区表" width="700">
+<p>
+ <img src="images/ai-keyboard/office-zone-zh.png" alt="AI键盘的功能分区表" width="700">
+</p>
 
 办公区按键的基础功能有x写作、t翻译、a润色、s总结、d释义、f查词、y引导教学、c任务拆解和v问题分析。
 
@@ -826,7 +829,9 @@ v7：用七步问题解决法分析：[]。
 
 ### 3.4 辅助问答区按键的用法
 
-<img src="images/ai-keyboard/q&a-assistant-zone-zh.png" alt="AI键盘的功能分区表" width="700">
+<p>
+ <img src="images/ai-keyboard/q&a-assistant-zone-zh.png" alt="AI键盘的功能分区表" width="700">
+</p>
 
 在和AI交流的过程中，你可能会想要了解回答里某个概念的含义，也可能会遇到回答太长的情况，想让AI改短一点。
 

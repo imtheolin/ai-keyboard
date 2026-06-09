@@ -69,7 +69,9 @@ Here is an outline for this AI Keyboard User Guide. After reviewing it, you can 
 
 ### 1.1 Five Functional Zones of AI Keyboard
 
-<img src="images/ai-keyboard/functional-zoning-table-en.png" alt="The Functional Zoning Table of AI Keyboard" title="The Functional Zoning Table of AI Keyboard" width="750">
+<p>
+ <img src="images/ai-keyboard/functional-zoning-table-en.png" alt="The Functional Zoning Table of AI Keyboard" title="The Functional Zoning Table of AI Keyboard" width="750">
+</p>
 
 For better usability and recall, **I divided a keyboard into five functional zones**, and then wrote prompts with similar usage scenarios for the keys in each zone.
 
@@ -85,17 +87,17 @@ For all 136 prompts and corresponding shortcuts, please refer to Chapter 2.
 
 Here is the logo for AI Keyboard, a small red octopus: 
 
-<p align="center">
-<img src="images/ai-keyboard/logo.png" alt="Logo" width="200">
-</p>
+<div align="center">
+ <img src="images/ai-keyboard/logo.png" alt="Logo" width="200">
+</div>
 
 So you can also call it "**OctoBoard**".
 
 Its key visual features an octopus casting magic on a keyboard, symbolizing "**prompts at your fingertips.**"
 
-<p align="center">
-<img src="images/ai-keyboard/octoboard-01.png" alt="The Key Visual of AI Keyboard" width="290">
-</p>
+<div align="center">
+ <img src="images/ai-keyboard/octoboard-01.png" alt="The Key Visual of AI Keyboard" width="290">
+</div>
 
 <p align="right">
   <a href="#toc">
@@ -477,9 +479,9 @@ The shortcuts and corresponding prompts are as follows:
 
 **</ai_keyboard>**
 
-<p align="center">
+<div align="center">
 <img src="images/ai-keyboard/octoboard-02.png" alt="The Key Visual of AI Keyboard" width="290">
-</p>
+</div>
 
 <p align="right">
   <a href="#toc">
@@ -525,7 +527,9 @@ The shortcuts and corresponding prompts are as follows:
 
 First, let's review the keyboard layout:
 
-<img src="images/ai-keyboard/ai-keyboard-en.png" alt="Keyboard Layout">
+<p>
+ <img src="images/ai-keyboard/ai-keyboard-en.png" alt="Keyboard Layout">
+</p>
 
 The description under the letter indicates the basic function: type one letter to use it, and type two letters to access **an extended or enhanced function**.
 
@@ -671,7 +675,9 @@ Check out the <kbd>i</kbd> key in the Health Zone for a similar case:
 
 ### 3.3 How to Use the Office Zone Keys
 
-<img src="images/ai-keyboard/office-zone-en.png" alt="The Functional Zoning Table of AI Keyboard" width="750">
+<p>
+ <img src="images/ai-keyboard/office-zone-en.png" alt="The Functional Zoning Table of AI Keyboard" width="750">
+</p>
 
 The basic functions of the keys in the Office Zone are to write(x), translate(t), polish(a), sum up(s), define(d), look up(f), instruct(y), break down(c) and analyze(v).
 
@@ -827,7 +833,9 @@ v7: Analyze the following using the seven-step problem-solving method: [].
 
 ### 3.4 How to Use the Q&A Assistant Zone Keys
 
-<img src="images/ai-keyboard/q&a-assistant-zone-en.png" alt="The Functional Zoning Table of AI Keyboard" width="750">
+<p>
+ <img src="images/ai-keyboard/q&a-assistant-zone-en.png" alt="The Functional Zoning Table of AI Keyboard" width="750">
+</p>
 
 When interacting with AI, you may want to understand the meaning of a concept mentioned in the response.
 
