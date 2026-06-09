@@ -17,9 +17,9 @@
 
 <details open>
 
-<br>
-
 <summary><b>点击隐藏或显示提示词</b></summary>
+
+<br>
 
 ```
 <ai_keyboard>

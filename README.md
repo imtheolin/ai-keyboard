@@ -45,9 +45,9 @@ Here is an outline for this AI Keyboard User Guide. After reviewing it, you can 
 
 <details open>
 
-<br>
-
 <summary>Outline</summary>
+
+<br>
 
 [**Chapter 1**: The five functional zones and visuals of AI Keyboard.](#chapter-1-introduction-to-ai-keyboard)
 
@@ -117,9 +117,9 @@ You can also send them directly in the chat, or use the native text replacement 
 
 <details open>
 
-<br>
-
 <summary><b>Click to hide or show the prompts</b></summary>
+
+<br>
 
 **The prompts are as follows**:
 
@@ -481,7 +481,6 @@ The shortcuts and corresponding prompts are as follows:
 <img src="images/ai-keyboard/octoboard-02.png" alt="The Key Visual of AI Keyboard" width="290">
 </p>
 
-
 <p align="right">
   <a href="#toc">
     <img src="https://img.shields.io/badge/-▲ Back to Contents-dfe4ea?style=flat-square">
@@ -496,9 +495,9 @@ The shortcuts and corresponding prompts are as follows:
 
 <details open>
 
-<br>
-
 <summary><b>Contents</b></summary>
+
+<br>
 
 [3.1 How to Prompt Using AI Keyboard](#31-how-to-prompt-using-ai-keyboard)
 
@@ -537,10 +536,10 @@ Typing <kbd>ff</kbd> compares the nuances between words, while typing <kbd>fs</k
 **Here's how to use it**:
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 1</b></summary>
+
+<br>
   
 **Send**: **fs** limerence
 
@@ -567,10 +566,10 @@ dd: Define [] in professional terms.
 ```
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 2</b></summary>
+
+<br>
 
 **Send**: **d** dancing
 
@@ -591,10 +590,10 @@ ss: Conduct a close reading of the following: [].
 ```
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 3</b></summary>
+
+<br>
 
 **Send**: **s** a tech news article
 
@@ -639,10 +638,10 @@ For <kbd>nq</kbd> is "**Search for the latest developments on [] and generate an
 **Here's how to use it**:
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 4</b></summary>
+
+<br>
 
 **Send**: **nq** embodied intelligence
 
@@ -699,10 +698,10 @@ a-: Rewrite, more concise: [].
 ```
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 5</b></summary>
+
+<br>
 
 **Send**: **a+** a viewpoint
 
@@ -771,10 +770,10 @@ xv: Use it as the prompt I'm sending you.
 ```
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 6</b></summary>
+
+<br>
 
 **Send**: **xc** the objectives and requirements
 
@@ -813,10 +812,10 @@ v7: Analyze the following using the seven-step problem-solving method: [].
 ```
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 7</b></summary>
+
+<br>
 
 **Send**: **v1** how to achieve my life ideals
 
@@ -851,10 +850,10 @@ When you want AI to explain or interpret a specific concept, word, sentence, or 
 **Here's how to use it**:
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 8</b></summary>
+
+<br>
 
 **Send**: **h** keep myself energetic every day
 
@@ -877,10 +876,10 @@ When you want AI to explain or interpret a specific concept, word, sentence, or 
 Sending a single <kbd>z</kbd> prompts AI to rewrite the generated response to be shorter and easier to understand.
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 9</b></summary>
+
+<br>
 
 **Send**: **ll** writing
 
@@ -901,10 +900,10 @@ Sending a single <kbd>z</kbd> prompts AI to rewrite the generated response to be
 While sending <kbd>zz</kbd> makes AI generate more related content.
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 10</b></summary>
+
+<br>
 
 **Send**: **k** niche sci-fi movies
 
@@ -935,10 +934,10 @@ zv: Make adjustments or additions based on the improvement plan above.
 **The specific usage is as follows**: 
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 11</b></summary>
+
+<br>
 
 **Send**: **dq** the development of AI
 
@@ -979,10 +978,10 @@ p: Additional information or requirements are as follows: [].
 ```
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 12</b></summary>
+
+<br>
 
 **Send**: **tt** helping you easily enjoy the convenience brought by Al / **p** give three different versions
 
@@ -1009,10 +1008,10 @@ gg: In the process of [], I encountered the following problems: []. Please give 
 When using this type of prompt, simply enter a <kbd>/</kbd> as a separator.
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 13</b></summary>
+
+<br>
 
 **Send**: **gg** achieving my life goals/feel lost
 
@@ -1067,10 +1066,10 @@ x3: Give me some New Year greetings for the Year of the [].
 > **Tips**: Consider placing the new aikey after the corresponding key to make it easier to locate and modify later.
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 14</b></summary>
+
+<br>
 
 **Send**: **x3** horse
 
@@ -1089,10 +1088,10 @@ For example, assign the number <kbd>1</kbd> as an AI Key to search for and inter
 ```
 
 <details open>
-
-<br>
   
 <summary><b>Conversation Simulation 15</b></summary>
+
+<br>
 
 **Send**: 1
 
@@ -1169,10 +1168,10 @@ Besides words, you can also use **pinyin initials** or **letter shapes** as memo
 **The specific memorization methods are as follows**:
 
 <details open>
-
-<br>
   
 <summary><b>The letters in the top row</b></summary>
+
+<br>
 
 The <kbd>q</kbd> key's function is to ask follow-up questions, its mnemonic is "**question**".
 
@@ -1197,10 +1196,10 @@ The <kbd>p</kbd> key's function is to add information, its mnemonic is "**plus**
 </details>
 
 <details open>
-
-<br>
   
 <summary><b>The letters in the middle row</b></summary>
+
+<br>
 
 The <kbd>a</kbd> key's function is to rewrite text, its mnemonic is "**adapt**".
 
@@ -1223,10 +1222,10 @@ The <kbd>l</kbd> key's function is to generate study guidance, its mnemonic is "
 </details>
 
 <details open>
-
-<br>
   
 <summary><b>The letters in the bottom row</b></summary>
+
+<br>
 
 The <kbd>z</kbd> key's function is to revise the response, its mnemonic is "**zapper**".
 

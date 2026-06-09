@@ -17,9 +17,9 @@
 
 <details open>
 
-<br>
-
 <summary><b>Click to hide or show the prompts</b></summary>
+
+<br>
 
 ```
 <ai_keyboard>

@@ -69,7 +69,9 @@
 
 ### 1.1 AI键盘的5个功能区
 
-<img src="images/ai-keyboard/functional-zoning-table-zh.png" alt="AI键盘的功能分区表" title="AI键盘的功能分区表" width="800">
+<div> 
+ <img src="images/ai-keyboard/functional-zoning-table-zh.png" alt="AI键盘的功能分区表" title="AI键盘的功能分区表" width="800">
+</div> 
 
 为了便于使用和记忆，**我把键盘分成了5个功能区**，又给每个功能区的按键编写了使用场景类似的提示词。
 
@@ -81,16 +83,17 @@
 
 AI键盘的logo是一只红色的小章鱼：
 
-<p align="center">
+<div align="center">
 <img src="images/ai-keyboard/logo.png" alt="AI键盘的logo" width="200">
-</p>
+</div>
 
 因为章鱼的英文是octopus，键盘的英文是keyboard，所以你还可以叫它“**Octoboard**”。
 
 它的主视觉是一只正在给键盘施加魔法的章鱼，寓意是“**让提示词触手可及**”。
-<p align="center">
+
+<div align="center">
 <img src="images/ai-keyboard/octoboard-01.png" alt="AI键盘的主视觉" width="290">
-</p>
+</div>
 
 <p align="right">
   <a href="#toc">
@@ -112,9 +115,9 @@ AI键盘主要由136个提示词组成。
 
 <details open>
 
-<br>
-
 <summary><b>点击隐藏或显示提示词</b></summary>
+
+<br>
 
 **提示词如下**：
 
@@ -488,9 +491,9 @@ AI键盘主要由136个提示词组成。
 
 <details open>
 
-<br>
-
 <summary><b>章节目录</b></summary>
+
+<br>
 
 [3.1 如何用AI键盘提问](#31-如何用ai键盘提问)
 
@@ -518,7 +521,9 @@ AI键盘主要由136个提示词组成。
 
 首先让我们回顾一下AI键盘的键位图：
 
-<img src="images/ai-keyboard/ai-keyboard-zh.png" alt="AI键盘的键位图">
+<div> 
+ <img src="images/ai-keyboard/ai-keyboard-zh.png" alt="AI键盘的键位图">
+</div> 
 
 字母下方的简介是基础功能，输入一个字母就能使用，输入两个字母可以使用**基于基础功能衍生或加强的功能**。
 
@@ -529,10 +534,10 @@ AI键盘主要由136个提示词组成。
 **使用方法如下**：
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟1</b></summary>
+
+<br>
   
 **发送**：fj心有灵犀
 
@@ -559,10 +564,10 @@ dd：用专业的语言解释[]。
 ```
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟2</b></summary>
+
+<br>
 
 **发送**：d通用人工智能
 
@@ -583,10 +588,10 @@ ss：精读以下内容：[]。
 ```
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟3</b></summary>
+
+<br>
 
 **发送**：s一篇科技新闻
 
@@ -631,10 +636,10 @@ ss：精读以下内容：[]。
 **使用方法如下**：
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟4</b></summary>
+
+<br>
 
 **发送**：nq具身智能
 
@@ -693,10 +698,10 @@ a-：缩写，更加言简意赅：[]。
 ```
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟5</b></summary>
+
+<br>
 
 **发送**：a+一个观点
 
@@ -765,10 +770,10 @@ xv：将其作为我发送给你的提示词。
 ```
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟6</b></summary>
+
+<br>
 
 **发送**：xc目的和要求
 
@@ -807,10 +812,10 @@ v7：用七步问题解决法分析：[]。
 ```
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟7</b></summary>
+
+<br>
 
 **发送**：v1如何实现人生理想
 
@@ -843,10 +848,10 @@ v7：用七步问题解决法分析：[]。
 **使用方法如下**：
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟8</b></summary>
+
+<br>
 
 **发送**：h让自己每天都保持精力充沛
 
@@ -869,10 +874,10 @@ v7：用七步问题解决法分析：[]。
 发送一个 <kbd>z</kbd> 可以让AI将生成的回答改写得简短易懂。
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟9</b></summary>
+
+<br>
 
 **发送**：ll写作
 
@@ -895,10 +900,10 @@ v7：用七步问题解决法分析：[]。
 发送两个 <kbd>z</kbd> 则可以让AI再生成一些相关内容：
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟10</b></summary>
+
+<br>
 
 **发送**：k小众但评分很高的科幻电影
 
@@ -929,10 +934,10 @@ zv：基于以上改进方案进行调整或补充。
 **具体用法如下**：
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟11</b></summary>
+
+<br>
 
 **发送**：dqAI发展
 
@@ -973,10 +978,10 @@ p：补充信息或要求如下：[]。
 ```
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟12</b></summary>
+
+<br>
 
 **发送**：**tt**帮你轻松享受AI带来的便利，**p**给三个不同的版本
 
@@ -1003,10 +1008,10 @@ gg：我在[]的过程中[]，请给我一些指导。
 使用时输入斜杠 <kbd>/</kbd> 分隔即可。
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟13</b></summary>
+
+<br>
 
 **发送**：gg实现人生目标/感到迷茫
 
@@ -1063,10 +1068,10 @@ x3：给我一些[]年的新年祝福语。
 > Tips：建议将新的 aikey 放在对应按键的后面，方便后续查找和调整。
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟14</b></summary>
+
+<br>
 
 **发送**：x3马
 
@@ -1085,10 +1090,10 @@ x3：给我一些[]年的新年祝福语。
 ```
 
 <details open>
-
-<br>
   
 <summary><b>对话模拟15</b></summary>
+
+<br>
 
 **发送**：1
 
@@ -1130,11 +1135,15 @@ x3：给我一些[]年的新年祝福语。
 
 **首先**点击侧边栏“分组”右侧的+号：
 
-<img src="images/screenshots/yuanbao-guide-01.png" alt="添加到元宝里的方法" width="450">
+<div> 
+  <img src="images/screenshots/yuanbao-guide-01.png" alt="添加到元宝里的方法" width="450">
+</div> 
 
 **然后**创建一个新的分组：
 
-<img src="images/screenshots/yuanbao-guide-02.png" width="450">
+<div> 
+  <img src="images/screenshots/yuanbao-guide-02.png" width="450">
+</div> 
 
 **之后**点击“指令”：
 
@@ -1171,10 +1180,10 @@ x3：给我一些[]年的新年祝福语。
 **具体的记忆方法如下**：
 
 <details open>
-
-<br>
   
 <summary><b>第一行按键</b></summary>
+
+<br>
 
 <kbd>q</kbd> 是深入提问，对应question。
 
@@ -1199,10 +1208,10 @@ x3：给我一些[]年的新年祝福语。
 </details>
 
 <details open>
-
-<br>
   
 <summary><b>第二行按键</b></summary>
+
+<br>
 
 <kbd>a</kbd> 是文本润色，对应adapt。
 
@@ -1225,10 +1234,10 @@ x3：给我一些[]年的新年祝福语。
 </details>
 
 <details open>
-
-<br>
   
 <summary><b>第三行按键</b></summary>
+
+<br>
 
 <kbd>z</kbd> 是优化回答，对应zapper。
 
